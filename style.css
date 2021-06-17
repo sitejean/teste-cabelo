@@ -1,0 +1,395 @@
+.menu{
+    width: 100%;
+    background-color: rgba(128, 128, 128, 0.198);
+    height: 60px;
+}
+
+.div3{
+    float: left;
+    width: 27px;
+    height: 1px;
+    background-color: black;
+    /* margin-left: 5px; */
+    margin-top: 23px;
+}
+.div2{
+    float: left;
+    width: 27px;
+    height: 1px;
+    background-color: black;
+    /* margin-right: 1px; */
+    margin-top: 7px;
+}
+.div1{
+    float: left;
+    width: 27px;
+    height: 1px;
+    background-color: black;
+    /* margin-right: 1px; */
+    margin-top: 7px;
+    margin-bottom: 2px;
+}
+.act{
+
+display: none;
+font-family: 'Poppins', sans-serif;
+font-size: 20px;
+color: rgb(0, 176, 255);
+}
+.a1{
+    color: white;
+}
+.imgx{ filter: brightness(
+    305%
+    )} 
+
+   .logo{
+       text-align: center;
+       width: 90px;
+float: right;
+margin-right: 35%;
+   }
+   .mude{
+    width: 15px;
+    height: 15px;
+    background-color: black;
+    border-radius: 12px;
+}
+
+.product{
+    width: 50%;
+    height: 100%;
+  
+}
+
+.fontx{
+font-family:'Nunito Sans', sans-serif;
+color: white;
+    }
+    .font2{
+
+        font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+        color:white;
+        text-align: center;
+        }
+        .centro {
+         margin-right: 30%;
+            } 
+            html,body { overflow-x: hidden; }
+            .efeito-4{
+                background:    white  ;
+                color: #009578;
+                border-color:  #009578;
+                width: 310px;
+                box-shadow: inset 0 0 0 2px  #009578;
+                font-family:'Raleway', sans-serif;
+                font-size: 29px;
+            padding: 8px;
+            border-radius: 50px;
+                      
+                      text-decoration: none;
+                      text-align: center;
+                      font-weight: 700;
+                      word-spacing: -2px;
+              }
+              
+              .efeito-4:hover{
+                background:    #009578  ;
+                color: white;
+                border-color:  #009578;
+                width: 310px;
+                box-shadow: inset 0 0 0 2px  #009578;
+                font-family:'Raleway', sans-serif;
+                font-size: 29px;
+            padding: 8px;
+            box-shadow:  #009578  -10px 12px 7px ;
+            border-radius: 50px;
+            text-decoration: none;
+                      text-align: center;
+            
+                
+              }
+              .efeito-5{
+              background:    #009578  ;
+                color: white;
+                border-color:  #009578;
+                width: 310px;
+                box-shadow: inset 0 0 0 2px  #009578;
+                font-family:'Raleway', sans-serif;
+                font-size: 29px;
+            padding: 8px;
+            box-shadow:  #009578  -10px 12px 7px ;
+            border-radius: 50px;
+            text-decoration: none;
+                      text-align: center;
+            
+              }
+              
+              .efeito-5:hover{
+                background:    white  ;
+                color: #009578;
+                border-color:  #009578;
+                width: 310px;
+                box-shadow: inset 0 0 0 2px  #009578;
+                font-family:'Raleway', sans-serif;
+                font-size: 29px;
+            padding: 8px;
+            border-radius: 50px;
+                      
+                      text-decoration: none;
+                      text-align: center;
+                      font-weight: 700;
+                      word-spacing: -2px;
+                
+              }
+              .efeito-6{
+                background:    white  ;
+                  color: #e3bc7b;
+                  border-color:  #e3bc7b;
+                  width: 310px;
+                  box-shadow: inset 0 0 0 2px  #e3bc7b;
+                  font-family:'Raleway', sans-serif;
+                  font-size: 29px;
+              padding: 8px;
+              box-shadow:  white  -10px 12px 7px ;
+              border-radius: 50px;
+              text-decoration: none;
+                        text-align: center;
+                        line-height: 1em;
+                        border:solid 3px #e3bc7b;
+              
+                }
+                
+                .efeito-6:hover{
+                  background:    #e3bc7b  ;
+                  color: white;
+                  border-color:  #e3bc7b;;
+                  width: 310px;
+                  box-shadow: inset 0 0 0 2px  #e3bc7b;
+                  font-family:'Raleway', sans-serif;
+                  font-size: 29px;
+              padding: 8px;
+              border-radius: 50px;
+              line-height: 1em;
+              box-shadow:  #e3bc7b  -10px 12px 7px ;
+                        text-decoration: none;
+                        text-align: center;
+                
+                        word-spacing: -2px;
+                  
+                }
+
+
+
+
+
+
+
+
+              .quadrado {
+               
+                animation: go-back 1s infinite alternate;
+              }
+              
+              @keyframes go-back {
+                from {
+                  transform: translateX(15px);
+                }
+                to {
+                  transform: translateX();
+                }
+              }
+
+
+
+
+
+
+
+
+
+
+
+
+              
+              .footer {
+                position: fixed;
+                bottom:0;
+                left:0;
+            }
+            .font1{
+                font-family: 'Poppins', sans-serif;
+                    line-height:32px;
+            }
+
+            .efeito-3{
+                background:    black  ;
+                color: white;
+                border-color:  black;
+                width: 200px;
+                box-shadow: inset 0 0 0 2px  black;
+                font-family: 'Poppins', sans-serif;
+                font-size: 23px;
+            padding: 11px;
+                      
+                      text-decoration: none;
+                      text-align: center;
+              }
+              
+              .efeito-3:hover{
+                background-color:#02b502;
+                color: white;
+                 box-shadow: inset 0 0 0 3px #02b502; 
+                 width: 200px;
+                 border:none;
+                font-family: 'Poppins', sans-serif;
+                font-size: 23px;
+               
+                box-shadow:         -10px 12px 7px ;
+                text-decoration: none;
+            
+                
+              }
+              @-webkit-keyframes glowing {
+                0% { background-color: #f7eb45; -webkit-box-shadow: 0 0 3px #f7eb45; }
+                50% { background-color: #8BC34A; -webkit-box-shadow: 0 0 3px #8BC34A; }
+                100% { background-color: #f7eb45; -webkit-box-shadow: 0 0 3px #f7eb45; }
+              }
+              
+              @-moz-keyframes glowing {
+                0% { background-color: #f7eb45; -moz-box-shadow: 0 0 3px #f7eb45; }
+                50% { background-color: #8BC34A; -moz-box-shadow: 0 0 3px #8BC34A; }
+                100% { background-color: #f7eb45; -moz-box-shadow: 0 0 3px #f7eb45; }
+              }
+              
+              @-o-keyframes glowing {
+                0% { background-color: #f7eb45; box-shadow: 0 0 3px #f7eb45; }
+                50% { background-color: #8BC34A; box-shadow: 0 0 3px #8BC34A; }
+                100% { background-color: #f7eb45; box-shadow: 0 0 3px #f7eb45; }
+              }
+              
+              @keyframes glowing {
+                0% { background-color: #f7eb45; box-shadow: 0 0 3px #f7eb45; }
+                50% { background-color: #8BC34A; box-shadow: 0 0 3px #8BC34A; }
+                100% { background-color: #f7eb45; box-shadow: 0 0 3px #f7eb45; }
+              }
+              
+              .button {
+                -webkit-animation: glowing 1500ms infinite;
+                -moz-animation: glowing 1500ms infinite;
+                -o-animation: glowing 1500ms infinite;
+                animation: glowing 1500ms infinite;
+              }
+
+              .area_bene{
+                /* background-color:#5ec679 ; */
+                background:-webkit-gradient(linear, left top, right top, from(#1cdb75), to(#3b955c));
+                /* height: 170px; */
+                border-radius: 8px;
+                width: 250px;
+              }
+    .bolinha{
+      width: 150px;
+      height: 150px;
+      background-color:#d7fbe5 ;
+      border-radius: 50%;
+    }
+    .bolinha_2{
+      width: 250px;
+      height: 250px;
+      background-color:#f7eb45 ;
+      border-radius: 50%;
+      border:solid 6px #f7eb45;
+      filter: brightness(125%);
+    }
+
+    .area_segredo{
+           background-color:#2c7b4a ; 
+     
+          /* height: 170px; */
+          border-radius: 8px;
+          width: 250px;
+
+    }
+
+    .img-3{
+      border-top-left-radius:8px;
+      border-top-right-radius:8px;
+    }
+
+    .area_venda_1{
+      background-color: #f7eb45;
+      border-top-left-radius:8px;
+      border-top-right-radius:8px;
+      width: 300px;
+    }
+
+    .area_venda{
+      background-color:white ;
+      border-bottom-left-radius:8px;
+      border-bottom-right-radius:8px;
+      width: 300px;
+
+    }
+
+    .borda{
+margin: 1px 4px 0 0;
+padding: 3px; /* Aqui Você pode aumentar ou diminuir o tamanho da borda pode colocar 3px, 5px, 6px etc */
+background-color:#0b492b ; /* Aqui você pode trocar a cor */
+border: 3px solid -webkit-gradient(linear, left top, right top, from(#1cdb75), to(#3b955c));
+    }
+
+    @-webkit-keyframes aleat {
+      0% { bcolor: #f7eb45; -webkit-box-shadow: 0 0 0px #f7eb45; }
+      50% { color: #8BC34A; -webkit-box-shadow: 0 0 0px #8BC34A; }
+      100% { color: #f7eb45; -webkit-box-shadow: 0 0 0px #f7eb45; }
+    }
+    
+    @-moz-keyframes aleat {
+      0% { color: #f7eb45; -moz-box-shadow: 0 0 0px #f7eb45; }
+      50% { color: #8BC34A; -moz-box-shadow: 0 0 0px #8BC34A; }
+      100% {color: #f7eb45; -moz-box-shadow: 0 0 0px #f7eb45; }
+    }
+    
+    @-o-keyframes aleat {
+      0% { color: #f7eb45; box-shadow: 0 0 0px #f7eb45; }
+      50% { color: #8BC34A; box-shadow: 0 0 0px #8BC34A; }
+      100% { color: #f7eb45; box-shadow: 0 0 0px #f7eb45; }
+    }
+    
+    @keyframes aleat {
+      0% { color: #f7eb45; box-shadow: 0 0 0px #f7eb45; }
+      50% { color: #8BC34A; box-shadow: 0 0 0px #8BC34A; }
+      100% { color: #f7eb45; box-shadow: 0 0 0px #f7eb45; }
+    }
+    
+    .letra {
+      -webkit-animation: aleat 1500ms infinite;
+      -moz-animation: aleat 1500ms infinite;
+      -o-animation: aleat 1500ms infinite;
+      animation: aleat 1500ms infinite;
+    }
+
+    .circle{
+      width: 100px;
+      height: 100px;
+      border-radius: 50%;
+      border:solid 3px #009578;
+    }
+
+    .area_7dias{
+      border:solid 1px #009578;
+      background-color: #f2f2f249;
+      position: relative;
+   width: 500px;
+   border-radius: 8px;
+   height: 740px;
+   
+  }
+
+  .area_recomenda{
+    background-color: #00d4ab;
+    width: 100%;
+    position: relative;
+
+  }
